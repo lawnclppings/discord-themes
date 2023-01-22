@@ -1977,10 +1977,11 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 }
 
 
-/* folder restyle(yes again)*/
+/* folder restyle(yes again)
 .expandedFolderBackground-1kSAf6 {
 	background-color: #191919;
 }
+*/
 
 
 [id^="folder-items-"] * {
@@ -3414,4 +3415,4 @@ html body #app-mount .wrapper-28eC3z foreignObject {
 /* fixing bugs */
 .flex-2S1XBF>button:hover{
     background-color: #343434;
-}b
+}
